@@ -29,12 +29,15 @@ Sou estudante de Ciência da Computação na UNIP (campus Bauru) e tenho grande 
 
 ### 🤖 **Linguagens e Tecnologias**
 
-<img alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" style="margin-right: 10px;" />
-<img alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" style="margin-right: 10px;" />
-<img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" style="margin-right: 10px;" />
-<img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" style="margin-right: 10px;" />
-<img alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" style="margin-right: 10px;" />
-<img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" style="margin-right: 10px;" />
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" style="margin-right: 10px;" />
+  <img alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" style="margin-right: 10px;" />
+  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" style="margin-right: 10px;" />
+  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" style="margin-right: 10px;" />
+  <img alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" style="margin-right: 10px;" />
+  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" style="margin-right: 10px;" />
+</div>
+
 
 ---
 
