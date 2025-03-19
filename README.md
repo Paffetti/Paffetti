@@ -60,3 +60,8 @@ Sou estudante de Ciência da Computação na UNIP (campus Bauru) e tenho grande 
 ### 🚀 **Vamos Trabalhar Juntos?**
 
 Sinta-se à vontade para explorar meus projetos no GitHub, conectar-se comigo no LinkedIn ou acompanhar meu trabalho no Instagram. Estou sempre aberto a novas colaborações e aprendizados! 🤓
+
+<a href="URL_DO_SEU_PORTIFOLIO">
+  <img src="https://img.shields.io/badge/Clique%20para%20acessar%20O%20meu-PORTIFOLIO-red?style=for-the-badge&logo=Jupyter" alt="Made with Jupyter">
+</a>
+
