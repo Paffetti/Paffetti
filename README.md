@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leonardo Paffetti
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Leonardo Paffetti, tenho 23 anos e sou estudante de Ciência da Computação na UNIP, campus Bauru. Sou apaixonado por tecnologia, com foco em desenvolvimento, infraestrutura e automação. Tenho conhecimentos em programação, cibersegurança e redes. Gosto de otimizar processos, criar soluções eficientes e registrar informações para facilitar o trabalho da equipe. Atualmente, estou aprimorando minhas habilidades em Java, Python e automação de tarefas, além de aprender mais sobre banco de dados, redes e servidores.
 
