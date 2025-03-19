@@ -5,14 +5,14 @@
 Me chamo Leonardo Paffetti, tenho 23 anos e sou estudante de Ciência da Computação na UNIP, campus Bauru. Sou apaixonado por tecnologia, com foco em desenvolvimento, infraestrutura e automação. Tenho conhecimentos em programação, cibersegurança e redes. Gosto de otimizar processos, criar soluções eficientes e registrar informações para facilitar o trabalho da equipe. Atualmente, estou aprimorando minhas habilidades em Java, Python e automação de tarefas, além de aprender mais sobre banco de dados, redes e servidores.
 
 <p align="left">
-    <a href="https://www.youtube.com/@Paffetti">
+    <a href="https://www.youtube.com/@Leopaffetti">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@Paffetti">
+    <a href="https://www.youtube.com/@Leopaffetti">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
