@@ -4,7 +4,7 @@
 
 ---
 
-### **`Futuro DevOps`**
+### **`Dev`**
 
 Sou estudante de Ciência da Computação na UNIP (campus Bauru) e tenho grande paixão por tecnologia, com foco em desenvolvimento, infraestrutura e automação. Atualmente, estou aprimorando minhas habilidades em **Java**, **Python** e **automação de tarefas**, além de expandir meu conhecimento em **redes**, **banco de dados** e **servidores**.
 
@@ -36,6 +36,7 @@ Sou estudante de Ciência da Computação na UNIP (campus Bauru) e tenho grande 
   <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" style="margin-right: 10px;" />
   <img alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" style="margin-right: 10px;" />
   <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" style="margin-right: 10px;" />
+  
 </div>
 
 
@@ -65,3 +66,4 @@ Sinta-se à vontade para explorar meus projetos no GitHub, conectar-se comigo no
   <img src="https://img.shields.io/badge/Clique%20para%20acessar%20O%20meu-PORTIFOLIO-red?style=for-the-badge&logo=Jupyter" alt="Made with Jupyter">
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=Paffetti&color=blue&style=for-the-badge"/>
