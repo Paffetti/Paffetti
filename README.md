@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Leonardo%20Paffetti&fontSize=40&fontAlignY=35&animation=fadeIn"/>
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Leonardo%20Paffetti&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn"/>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
 </p>
 
