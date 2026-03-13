@@ -1,12 +1,13 @@
-<div style="position: relative; background-image: url('https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-cover-desktop-wallpaper.gif'); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
-  
-  <div style="background-color: rgba(0, 0, 0, 0.75); padding: 20px; min-height: 100vh;">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td background="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/paralloid-reaching-the-stars-over-mountain.jpg" style="background: url('https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/paralloid-reaching-the-stars-over-mountain.jpg'); background-size: 100% 100%;">
+      
+      <div style="background-color: #000000; background-color: rgba(0,0,0,0.75); padding: 20px;">
 
 <!-- TODO O SEU CONTEÚDO AQUI -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Leonardo%20Paffetti&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850">
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Frontend+Developer;React+Developer;Automation+Enthusiast;Infrastructure+Lover"/>
@@ -139,7 +140,7 @@ Sinta-se à vontade para explorar meus projetos no GitHub, conectar-se comigo no
 <p align="center">
 
 <a href="https://paffetti.com/">
-<img src="https://img.shields.io/badge/PORTFÓLIO-Acessar-?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFÓLIO-Acessar-red?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 <p align="center">
@@ -147,5 +148,7 @@ Frontend Developer • Automação • Infraestrutura
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header"/>
 
-  </div> <!-- Fim da div com overlay escuro -->
-</div> <!-- Fim da div com imagem de fundo -->
+      </div>
+    </td>
+  </tr>
+</table>
