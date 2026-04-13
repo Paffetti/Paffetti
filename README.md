@@ -86,9 +86,9 @@ Gosto de criar **interfaces eficientes, sistemas escaláveis e automações que 
 ## 🖥️ Infraestrutura / Automação
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/linux/ffffff" width="40"/>
+<img src="https://cdn.simpleicons.org/gnubash/ffffff" width="40"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/powershell.png" width="40"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ Gosto de criar **interfaces eficientes, sistemas escaláveis e automações que 
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40"/>
 </p>
 
