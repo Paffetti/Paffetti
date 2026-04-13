@@ -103,14 +103,11 @@ Gosto de criar **interfaces eficientes, sistemas escaláveis e automações que 
 
 ---
 
-# 📊 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Paffetti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paffetti&theme=tokyonight&layout=compact&langs_count=8"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paffetti&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paffetti&theme=tokyonight&layout=compact"/>
 </p>
 
 
@@ -132,16 +129,16 @@ Gosto de criar **interfaces eficientes, sistemas escaláveis e automações que 
 
 ---
 
-# 🚀 Vamos trabalhar juntos?
+## 🚀 Vamos trabalhar juntos?
 
 Sinta-se à vontade para explorar meus projetos no GitHub, conectar-se comigo no LinkedIn ou visitar meu portfólio.
 
 <p align="center">
-
-<a href="https://paffetti.com/">
-<img src="https://img.shields.io/badge/PORTFÓLIO-Acessar-?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <a href="https://paffetti.com/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-Acessar-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
 <p align="center">
 Frontend Developer • Automação • Infraestrutura
 </p>
