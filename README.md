@@ -49,57 +49,22 @@ Gosto de criar **interfaces eficientes, sistemas escaláveis e automações que 
 
 ---
 
+<div align="center">
+
 # 🚀 Tecnologias
 
-## 🎨 Frontend
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Banco de Dados |
+|:---:|:---:|:---:|
+| [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nodejs,java,python)](https://skillicons.dev) | [![Banco de Dados](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48"/> |
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
-</p>
+<br>
 
----
+| 🖥️ Infraestrutura / Automação | 🛠️ Ferramentas |
+|:---:|:---:|
+| [![Infra](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)<br><img src="https://img.icons8.com/ios-filled/50/ffffff/powershell.png" width="48"/> | [![Ferramentas](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="48"/> |
 
-## ⚙️ Backend
+</div>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-</p>
-
----
-
-## 🗄️ Banco de Dados
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40"/>
-</p>
-
----
-
-## 🖥️ Infraestrutura / Automação
-
-<p>
-<img src="https://cdn.simpleicons.org/linux/ffffff" width="40"/>
-<img src="https://cdn.simpleicons.org/gnubash/ffffff" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/powershell.png" width="40"/>
-</p>
-
----
-
-## 🛠️ Ferramentas
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/github/ffffff" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40"/>
-</p>
 
 ---
 
@@ -147,18 +112,3 @@ Frontend Developer • Automação • Infraestrutura
   </div> <!-- Fim da div com overlay escuro -->
 </div> <!-- Fim da div com imagem de fundo -->
 
-<div align="center">
-
-# 🚀 Tecnologias
-
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Banco de Dados |
-|:---:|:---:|:---:|
-| [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nodejs,java,python)](https://skillicons.dev) | [![Banco de Dados](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48"/> |
-
-<br>
-
-| 🖥️ Infraestrutura / Automação | 🛠️ Ferramentas |
-|:---:|:---:|
-| [![Infra](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)<br><img src="https://img.icons8.com/ios-filled/50/ffffff/powershell.png" width="48"/> | [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,docker)](https://skillicons.dev)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="48"/> |
-
-</div>
