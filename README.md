@@ -146,3 +146,19 @@ Frontend Developer • Automação • Infraestrutura
 
   </div> <!-- Fim da div com overlay escuro -->
 </div> <!-- Fim da div com imagem de fundo -->
+
+<div align="center">
+
+# 🚀 Tecnologias
+
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Banco de Dados |
+|:---:|:---:|:---:|
+| [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=nodejs,java,python)](https://skillicons.dev) | [![Banco de Dados](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48"/> |
+
+<br>
+
+| 🖥️ Infraestrutura / Automação | 🛠️ Ferramentas |
+|:---:|:---:|
+| [![Infra](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)<br><img src="https://img.icons8.com/ios-filled/50/ffffff/powershell.png" width="48"/> | [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,docker)](https://skillicons.dev)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="48"/> |
+
+</div>
