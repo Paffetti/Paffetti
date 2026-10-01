@@ -71,13 +71,11 @@ Gosto de criar **interfaces eficientes, sistemas escaláveis e automações que 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Paffetti&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"
-       alt="Estatísticas do GitHub"/>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Paffetti&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"/>
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paffetti&theme=tokyonight&layout=compact"
-       alt="Linguagens mais usadas"/>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paffetti&theme=tokyonight&layout=compact"/>
 </p>
 
 
